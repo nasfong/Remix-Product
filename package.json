@@ -1,6 +1,7 @@
 {
   "name": "full-stack-remix",
   "private": true,
+  "type": "module",
   "sideEffects": false,
   "scripts": {
     "build": "remix vite:build",
